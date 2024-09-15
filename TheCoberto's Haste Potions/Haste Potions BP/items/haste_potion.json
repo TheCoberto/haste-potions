@@ -1,0 +1,25 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "thecoberto:haste_potion",
+      "category": "Misc"
+    },
+    "components": {
+      "minecraft:use_duration": 32,
+      "minecraft:food": {
+        "nutrition": 0,
+        "saturation_modifier": "normal",
+        "can_always_eat": true,
+        "effects": [
+          {
+            "name": "haste",
+            "duration": 2300,
+            "amplifier": 1,
+            "chance": 1.0
+          }
+        ]
+      }
+    }
+  }
+}

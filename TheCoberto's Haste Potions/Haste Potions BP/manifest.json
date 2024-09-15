@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Haste Potions",
+		"description": "Brew haste potions to enhance mining! \n§b1.21.23",
+		"uuid": "09741e87-67fa-4412-a758-b256c076b712",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			21,
+			20
+		]
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "2e6be702-a799-d974-8e57-25806e012a64",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "fe0fa57c-92c3-445f-af6e-5a6c159a7960",
+			"version": [ 1, 0, 0 ]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.12.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.2.0"
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"blockbench_entity_wizard": [
+				"1.3.1",
+				"1.4.0"
+			],
+			"blockbench_block_wizard": [
+				"1.2.1",
+				"1.2.2"
+			]
+		}
+	}
+}

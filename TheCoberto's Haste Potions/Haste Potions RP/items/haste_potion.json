@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "thecoberto:haste_potion",
+      "category": "Misc"
+    },
+    "components": {
+      "minecraft:icon": "haste_potion", //make sure this string matches the string you put in item_texture.json!
+      "minecraft:render_offsets": "potion"
+    }
+  }
+}
