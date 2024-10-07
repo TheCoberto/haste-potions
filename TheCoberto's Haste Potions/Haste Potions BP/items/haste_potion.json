@@ -2,7 +2,7 @@
   "format_version": "1.20.50",
   "minecraft:item": {
     "description": {
-      "identifier": "new:haste_potion",
+      "identifier": "thecoberto:haste_potion",
       "menu_category": {
         "category": "items"
       }

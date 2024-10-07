@@ -2,11 +2,11 @@
   "format_version": "1.12",
   "minecraft:recipe_brewing_mix": {
     "description": {
-      "identifier": "new:haste_potion_brewing"
+      "identifier": "thecoberto:haste_potion_brewing"
     },
     "tags": [ "brewing_stand" ],
     "input": "minecraft:potion_type:awkward",
     "reagent": "minecraft:lapis_lazuli",
-    "output": "new:haste_potion"
+    "output": "thecoberto:haste_potion"
   }
 }
