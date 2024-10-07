@@ -3,7 +3,7 @@
 	"header": {
 		"name": "Haste Potions",
 		"description": "Brew haste potions to enhance mining! \n§b1.21.31",
-		"uuid": "c726d560-e042-400f-aee7-c1dce2ac641f",
+		"uuid": "16fa5018-3398-4581-b8e1-9a4f587eb3ec",
 		"version": [
 			1,
 			0,
@@ -34,8 +34,8 @@
 	"capabilities": [ "script_eval" ],
 	"dependencies": [
 		{
-			"uuid": "da56d739-ae2a-4550-9521-6f31331c6585",
-			"version": [ 1, 0, 0 ]
+			"uuid": "6c7f8f4c-ca06-414a-9987-35d364afffcd",
+			"version": [ 1, 0, 1 ]
 		},
 		{
 			"module_name": "@minecraft/server",
